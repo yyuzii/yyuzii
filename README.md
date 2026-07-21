@@ -34,10 +34,9 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_НИК&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_GITHUB_НИК&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yyuzii&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyuzii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
-<p align="center"><i>💡 Не забудь заменить <code>ТВОЙ_GITHUB_НИК</code> в ссылках на свой логин GitHub, чтобы статистика заработала!</i></p>
 
 ---
 
