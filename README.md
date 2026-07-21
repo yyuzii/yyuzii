@@ -1,67 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:B224EF&height=250&section=header&text=Привет,%20я%20Влад!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=RAGE:MP%20Backend%20Developer%20&%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Привет,%20я%20Влад!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=RAGE:MP%20Backend%20Developer%20&%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://yuzii.lol">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=RAGE:MP+Server+Developer;JavaScript+Backend+Engineer;Cybersecurity+Enthusiast;Building+Game+Systems;Learning+C%23+and+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=System+Architect+for+RAGE:MP;JavaScript+Backend+Engineer;Cybersecurity+Researcher;Learning+C%23+and+.NET;Building+Unbreakable+Servers" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🚀 Обо мне</h2>
-  <p>
-    Я backend-разработчик с <b>1 годом боевого опыта</b>, специализирующийся на создании серверной архитектуры и сложных игровых систем для <b>RAGE:MP</b>. <br/>Пишу чистый и оптимизированный код, чтобы сервер держал высокий онлайн без лагов и падений.
-  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
 </div>
 
----
+<br/>
 
-### 🕹️ Чем я занимаюсь
+### 💻 `whoami`
 
-*   💻 **RAGE:MP Development:** Разработка уникальных игровых модов, сложных систем, экономик и серверной логики с нуля.
-*   🛠️ **Архитектура & API:** Проектирование баз данных и создание надежного, масштабируемого бэкенда для проектов.
-*   🛡️ **Кибербезопасность:** Анализ уязвимостей, защита баз данных от утечек и пентестинг (иногда ломаю тестовые стенды ради науки).
-*   🌱 **Развитие:** Сейчас активно погружаюсь в **C#** и экосистему **.NET**, чтобы писать еще более мощный корпоративный и игровой софт.
-*   🌐 **Мой сайт:** [yuzii.lol](https://yuzii.lol)
+> Я backend-разработчик с **1 годом боевого опыта**. Моя главная страсть — это **RAGE:MP**. Я не просто пишу код, я создаю сложные, высоконагруженные серверные системы, продумываю архитектуру и базы данных, чтобы игровые проекты работали без лагов и падений. 
+> 
+> Вторая сторона моей работы — **кибербезопасность**. Я изучаю векторы атак, ломаю собственные тестовые стенды и внедряю максимальную защиту от уязвимостей. Мой код должен быть не только быстрым, но и непробиваемым.
 
----
-
-### 🛠️ Мой арсенал технологий
+<br/>
 
 <div align="center">
-  <h4>🔹 Основной стек & RAGE:MP</h4>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,cs,dotnet&perline=6" alt="Main Skills" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
+</div>
+
+<br/>
+
+### 🎮 Игровой профиль разработчика
+
+Вместо скучной статистики, вот мои реальные характеристики как специалиста:
+
+> 🛡️ **КЛАСС:** Backend Architect | **ОПЫТ:** 1 год (Level 1)
+> 🌐 **ФРАКЦИЯ:** RAGE:MP Game Servers
+> ⚔️ **ТЕКУЩИЙ КВЕСТ:** Освоение корпоративной мощи C# и экосистемы .NET
+
+**Распределение очков навыков (Skill Points):**
+*   ⚙️ **Backend & Logic** ▰▰▰▰▰▰▰▰▱▱ *(Создание систем, API, архитектура)*
+*   🕹️ **RAGE:MP Dev** ▰▰▰▰▰▰▰▰▰▱ *(Синхронизация, ивенты, серверная логика)*
+*   🗄️ **Databases** ▰▰▰▰▰▰▰▱▱▱ *(PostgreSQL, оптимизация запросов)*
+*   🔒 **Cybersecurity** ▰▰▰▰▰▰▱▱▱▱ *(Защита от инъекций, аудит безопасности)*
+*   🚀 **C# & .NET** ▰▰▰▰▱▱▱▱▱▱ *(В активном процессе изучения)*
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
+</div>
+
+<br/>
+
+### 🛠️ Инвентарь (Технологии)
+
+<div align="center">
+  <p><i>Языки и фреймворки</i></p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet&perline=5" alt="Tech" />
   
-  <br/>
+  <br/><br/>
   
-  <h4>🔹 Инструменты & Безопасность</h4>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,bash,vscode&perline=6" alt="Tools" />
+  <p><i>Базы данных, Инструменты и ОС</i></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,ubuntu,bash,git,vscode&perline=7" alt="Tools" />
 </div>
 
----
-
-### 📊 Статистика GitHub
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_НИК&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&bg_color=0D1117&title_color=2CA5E0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_GITHUB_НИК&theme=tokyonight&hide_border=true&background=0D1117&ring=2CA5E0&fire=2CA5E0&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
 </div>
-<p align="center"><i>💡 Не забудь заменить <code>ТВОЙ_GITHUB_НИК</code> в ссылках на свой логин GitHub, чтобы статистика заработала!</i></p>
 
----
+<br/>
 
-### 📫 Как со мной связаться
+### 📫 Точки входа (Связь со мной)
 
 <div align="center">
-  <a href="https://t.me/yuziich"><img src="https://img.shields.io/badge/Telegram-@yuziich-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/yuziich"><img src="https://img.shields.io/badge/Telegram-@yuziich-00C9FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:tolkattkas@gmail.com"><img src="https://img.shields.io/badge/Email-tolkattkas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yuzii.lol"><img src="https://img.shields.io/badge/Website-yuzii.lol-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://yuzii.lol"><img src="https://img.shields.io/badge/Website-yuzii.lol-000000?style=for-the-badge&logo=google-chrome&logoColor=00C9FF" alt="Website"/></a>
   <img src="https://img.shields.io/badge/Discord-yuzii.com-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B224EF,100:2CA5E0&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer" alt="Footer"/>
 </div>
